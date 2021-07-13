@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'STIX Two Math', serif;
+}
+/* start header area */
+.name{
+    color: #EC4C7A;
+    font-size: 50px;
+}
+.common{
+    font-size: 40px;
+}
+.header-item{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 70px;
+}
+section p{
+    color: dimgray;
+    font-size: 18px;
+}
+.item1{
+    position: left;
+    align-content: center;
+    padding-top: 180px;
+    padding-left: 100px;
+}
+.item2{
+    margin-left: 3%;
+}
+.header-img{
+    width: 100%;
+}
+.header-area{
+    height: 900px;
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+    
+}
+.button{
+    text-decoration: none;
+    font-weight: 700;
+    background: linear-gradient(45deg, #ff73ab, #EC4C7A);
+    padding: 20px 40px;
+    color: white;
+    border-radius: 5px;
+}
+/* end header area */
+
+/* start biography area */
+
+.bio-item{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 80px;
+}
+.bio-img{
+    width: 100%;
+    
+}
+.bio-area{
+    height: 900px;
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.item3{
+    position: left;
+    align-content: center;
+    padding-top: 250px;
+    padding-right: 100px;
+}
+/* end biography area */
+
+/* start work area */
+
+.work-item img{
+    width:29.33%;
+    float: left;
+    margin-left: 3%;
+
+}
+.work-header{
+    text-align: center;
+    padding-bottom: 80px;
+}
+.work-area{
+    height: 600px;
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    padding-top: 120px;
+    
+}
+footer p{
+    color: dimgray;
+}
+.say{
+    color: black;
+    font-size: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    font-weight: 100;
+}
+.contact{
+    background: linear-gradient(45deg, #EC4F90, #ED4B6E);
+    padding: 50px 20px;
+    text-align: center;
+    color: white;
+    width: 45%;
+    height: 80px;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 80px;
+    font-size: 20px;
+}
+.email{
+    font-size: 25px;
+    font-weight: 700;
+    
+    
+}
+footer{
+    background-image: url(image/footer-bg.png);
+    height: 700px;
+    padding-top: 120px;
+}
+.person{
+    text-align: center;
+}
